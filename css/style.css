@@ -160,13 +160,13 @@ header{
 	font-family: 'Playfair Display', serif;
 	font-size: 14px;
 	color:#626262;
-	width: 330px;
+	width: 400px;
 	height: 35px;
 	border: none;
 	border-bottom: 1px solid #000;
 	background: transparent;
 	padding-left: 5px;
-	padding-right: 15px;
+	padding-right: 45px;
 }
 
 .s_form input:focus{
