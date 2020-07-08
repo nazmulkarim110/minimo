@@ -179,7 +179,7 @@ header{
 	border: none;
 	cursor: pointer;
 	top: 15px;
-	right: 0;
+	right: 5px;
 
 
 }
@@ -192,7 +192,7 @@ header{
 
 /* load more start*/
 .load{
-	padding: 100px 0;
+	padding: 100px 0 200px;
 	text-align: center;
 }
 .load button{
@@ -213,7 +213,7 @@ header{
 }
 
 .load button:hover{
-	background-color: #dddd;
+	background-color: #f0f0f0;
 	transition: .3s;
 	
 }
